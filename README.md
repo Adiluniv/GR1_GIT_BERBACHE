@@ -14,7 +14,7 @@ git branch
 
 
 J'ai evité le conflit 
-salam 3dil, j'ai modif le fichier c'est bien petit
+
 
 
 
