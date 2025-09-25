@@ -1,4 +1,5 @@
 
+
 # Premier cours
 ## Commande de base
 ## correctif bug
@@ -11,6 +12,19 @@ git branch
 ...
 =======
 
+
 J'ai evité le conflit 
+
+
+
+
+
+
+
+
+Modification du fichier en cours, t'es le boss mon frr 
+
+
+
 
 >>>>>> f1b127156c00ffd921d02a6be9746e95c33185cd
